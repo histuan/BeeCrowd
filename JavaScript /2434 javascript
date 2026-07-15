@@ -1,0 +1,12 @@
+//entrada de dados//
+var [qtd, s] = prompt().split(" ").map(Number);
+var menors = 10**4 ;
+for(var i = 0; i<qtd; i++){
+    var t = +prompt();
+    s += t;
+    if(s < menors){
+        menors = s;
+    }
+}
+//saída de dados//
+console.log(menors);
