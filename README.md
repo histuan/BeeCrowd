@@ -2,11 +2,11 @@
 
 Minhas soluções para problemas do [Beecrowd](https://judge.beecrowd.com/) (antigo URI Online Judge), escritas em **C**, **JavaScript** e **Python**.
 
-![C](https://img.shields.io/badge/C99-132_problemas-00599C?logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-138_problemas-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-29_problemas-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C99-00599C?logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-**152 problemas diferentes resolvidos** · 301 soluções no total (vários problemas foram resolvidos em mais de uma linguagem).
+**DIVERSOS problemas diferentes resolvidos** · (vários problemas foram resolvidos em mais de uma linguagem).
 
 ---
 
